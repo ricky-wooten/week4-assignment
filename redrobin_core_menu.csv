@@ -1,0 +1,130 @@
+item,category,calories,calories_from_fat,total_fat_g,saturated_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,total_carbs_g,fiber_g,sugars_g,protein_g,vegetarian,vegan,gluten_free,notes
+Bacon Cheeseburger,Burger - Signature,1000,650,73.0,24.0,2.5,160,1800,48,3,10,43,no,no,unknown,Assumes American cheese
+Banzai,Burger - Signature,980,600,67.0,22.0,2.5,140,1580,59,3,20,39,no,no,unknown,
+BBQ Burnt Ends 'N Bacon Burger,Burger - Signature,1370,860,95.0,30.0,3.5,195,2290,74,4,19,55,no,no,unknown,
+Black & Bleu,Burger - Signature,1070,660,74.0,24.0,2.5,145,1480,65,12,17,39,no,no,unknown,Select locations only
+Bleu Ribbon,Burger - Signature,1070,650,72.0,21.0,2.0,120,1610,69,5,16,36,no,no,unknown,
+Burnin' Love,Burger - Signature,980,610,70.0,22.0,2.5,135,1540,57,5,11,39,no,no,unknown,
+Burnin' Love Chicken,Burger - Signature,750,380,45.0,11.0,0.5,120,1710,55,5,11,43,no,no,unknown,
+Cheesy Bacon Fondue Burger,Burger - Signature,1360,910,101.0,40.0,3.0,255,2820,56,3,15,62,no,no,unknown,American cheese
+Chili Chili Cheeseburger,Burger - Signature,920,500,56.0,21.0,2.5,150,1740,60,6,11,48,no,no,unknown,Select locations only
+Keep It Simple Beef,Burger - Signature,570,270,29.0,12.0,2.0,95,1000,47,3,9,31,no,no,unknown,
+Keep It Simple Chicken,Burger - Signature,350,35,4.0,1.0,0.0,80,880,45,4,9,35,no,no,unknown,
+Keep It Simple Veggie,Burger - Signature,360,60,7.0,1.0,0.0,0,960,62,10,13,15,yes,unknown,unknown,Vegan status of veggie patty binder not confirmed - ask staff
+Monster Burger,Burger - Signature,1300,810,90.0,38.0,4.5,255,2520,63,4,20,65,no,no,unknown,
+Red Robin Gourmet Cheeseburger (w/o Relish),Burger - Signature,810,480,53.0,20.0,2.0,135,1670,50,3,11,37,no,no,unknown,Select locations only; assumes American cheese
+Red Robin Gourmet Cheeseburger,Burger - Signature,850,480,53.0,20.0,2.0,135,1860,58,4,18,37,no,no,unknown,Assumes American cheese
+Royal Red Robin,Burger - Signature,1120,740,82.0,27.0,2.5,345,1920,48,3,10,49,no,no,unknown,
+Sauteed 'Shroom Burger,Burger - Signature,910,540,60.0,24.0,2.5,150,1200,51,5,10,43,no,no,unknown,
+Scorpion Gourmet Burger,Burger - Signature,1070,650,72.0,23.0,2.5,135,2270,68,7,15,40,no,no,unknown,
+Smashed Avocado N' Bacon,Burger - Signature,930,560,62.0,22.0,2.0,150,1110,51,5,10,46,no,no,unknown,
+Smoke & Pepper Burger,Burger - Signature,790,400,44.0,19.0,2.0,140,1780,57,3,16,45,no,no,unknown,
+Savory Steakhouse Burger,Burger - Signature,1320,840,93.0,29.0,2.5,175,2170,71,5,13,51,no,no,unknown,Select locations only
+The Southern Charm Burger,Burger - Signature,1170,700,78.0,25.0,2.5,160,1780,73,12,27,46,no,no,unknown,
+Whiskey River BBQ Burger,Burger - Signature,1200,740,83.0,24.0,2.5,140,1630,74,5,20,40,no,no,unknown,
+Grilled Turkey Burger,Burger - Veggie/Other,780,460,51.0,14.0,0.5,140,1360,43,3,8,39,no,no,unknown,
+Impossible Burger,Burger - Veggie/Other,750,370,41.0,16.0,0.5,40,1840,66,8,18,33,yes,no,unknown,Plant-based patty but assembled burger includes cheese (dairy) by default - order without cheese for vegan
+The Wedgie Burger,Burger - Veggie/Other,500,330,36.0,14.0,2.0,115,720,14,4,5,32,no,no,unknown,
+Tuscan Salmon,Burger - Veggie/Other,900,570,65.0,12.0,0.5,15,1450,49,3,11,42,no,no,unknown,
+Veggie Burger,Burger - Veggie/Other,770,440,50.0,12.0,0.5,45,1130,63,12,13,24,yes,unknown,unknown,Vegan status of veggie patty binder not confirmed - ask staff
+Vegan Burger,Burger - Veggie/Other,220,90,10.0,1.5,0.0,0,490,26,11,8,9,yes,yes,unknown,Patty only - check bun and toppings for full vegan meal
+Cowboy Ranch Double,Burger - Tavern,720,410,45.0,16.0,2.0,105,1340,49,2,17,30,no,no,unknown,
+Haystack Double,Burger - Tavern,740,460,50.0,19.0,2.0,120,1360,41,2,10,32,no,no,unknown,
+Pig Out Double,Burger - Tavern,890,560,62.0,23.0,2.5,160,1730,43,2,16,44,no,no,unknown,
+Red's Double,Burger - Tavern,640,380,42.0,18.0,2.0,120,1270,35,2,8,31,no,no,unknown,
+Brioche Bun,Bun,200,25,3.0,0.5,0.0,0,380,38,2,6,7,yes,unknown,no,Likely contains egg/dairy - confirm with staff
+Croissant Bun,Bun,330,140,15.0,9.0,0.5,0,390,41,1,6,7,yes,no,no,Butter-based
+Gluten Free Bun,Bun,210,40,4.5,0.0,0.0,0,480,39,3,6,4,yes,unknown,yes,Gluten-free bun option
+Lettuce Wrap (instead of bun),Bun,15,0,0.0,0.0,0.0,0,10,3,1,2,1,yes,yes,yes,
+Ancient-Grain Veggie/Vegan Patty,Protein Patty,130,35,4.0,0.5,0.0,0,340,17,7,5,7,yes,yes,unknown,
+Crispy Chicken Patty,Protein Patty,440,250,27.0,5.0,0.0,85,670,17,0,0,31,no,no,unknown,
+Grilled Chicken Patty,Protein Patty,120,10,1.0,0.5,0.0,80,260,0,0,0,27,no,no,unknown,
+Gourmet Burger Patty (Beef),Protein Patty,340,240,26.0,11.0,1.5,95,85,3,0,0,23,no,no,unknown,
+Impossible Burger Patty,Protein Patty,240,120,14.0,8.0,0.0,0,370,11,5,0,19,yes,yes,unknown,Patty alone; toppings may not be vegan
+Tavern Patty (Beef),Protein Patty,160,110,12.0,5.0,1.0,45,40,1,0,0,11,no,no,unknown,
+Turkey Patty,Protein Patty,250,150,16.0,4.5,0.0,100,570,1,0,0,25,no,no,unknown,
+Salmon Fillet,Protein Patty,280,170,19.0,4.5,0.0,0,480,2,0,0,33,no,no,unknown,Select locations only
+American Cheese (two slices),Cheese Topping,110,90,10.0,6.0,0.5,30,570,2,0,1,5,yes,no,yes,
+Bleu Cheese (crumbles),Cheese Topping,50,35,4.0,2.5,0.0,10,180,0,0,0,3,yes,no,yes,
+Cheddar Cheese (one slice),Cheese Topping,110,80,9.0,5.0,0.5,30,180,0,0,0,7,yes,no,yes,
+Pepper-Jack Cheese (one slice),Cheese Topping,100,80,8.0,5.0,0.5,25,190,0,0,0,7,yes,no,yes,
+Provolone Cheese (one slice),Cheese Topping,70,50,6.0,3.5,0.0,15,180,0,0,0,5,yes,no,yes,Select locations only
+Swiss Cheese (one slice),Cheese Topping,110,80,9.0,6.0,0.5,30,60,0,0,0,8,yes,no,yes,
+Add Avocado,Side,60,50,6.0,1.0,0.0,0,0,3,3,0,0,yes,yes,yes,
+Side Smashed Avocado,Side,140,120,13.0,2.0,0.0,0,220,8,6,0,2,yes,yes,yes,
+Add Bacon,Side,80,45,5.0,2.0,0.0,20,250,1,0,0,6,no,no,unknown,
+Add Bacon Bits,Side,70,40,4.5,1.5,0.0,20,210,1,0,1,6,no,no,unknown,
+Bottomless Steak Fries (per serving),Side,350,140,16.0,2.5,0.0,0,380,48,5,0,5,yes,yes,yes,
+Bottomless Steak Fries (8oz),Side,570,230,25.0,4.5,0.0,0,610,77,8,1,8,yes,yes,yes,
+Caramelized Onions,Side,50,20,2.5,0.5,0.0,0,0,7,3,3,0,yes,yes,yes,
+Cheesy Bacon Fondue,Side,340,230,26.0,15.0,1.0,85,900,10,0,6,16,no,no,unknown,
+Coleslaw,Side,180,100,12.0,2.0,0.0,10,660,16,3,9,2,yes,unknown,unknown,May contain dairy-based dressing - confirm with staff
+Cucumber Slices (three slices),Side,0,0,0.0,0.0,0.0,0,0,0,0,0,0,yes,yes,yes,
+Fresh Jalapeno Slices,Side,0,0,0.0,0.0,0.0,0,0,0,0,0,0,yes,yes,yes,
+Fried Egg,Side,90,60,7.0,2.0,0.0,185,95,0,0,0,6,yes,no,yes,
+Garlic Fries,Side,430,200,23.0,7.0,0.5,20,500,50,5,2,8,yes,unknown,unknown,Confirm butter/dairy content with staff
+Garlic Parmesan Broccoli,Side,80,40,4.5,2.5,0.0,10,130,7,3,2,5,yes,no,unknown,Contains parmesan
+Green Chile Side,Side,10,0,0.0,0.0,0.0,0,0,2,0,0,0,yes,yes,yes,New Mexico locations only
+Mayonnaise (1oz),Side,250,250,28.0,4.5,0.0,15,200,0,0,0,0,yes,no,unknown,Contains egg
+Onion Rings,Side,280,10,1.0,0.0,0.0,5,1020,61,3,11,6,yes,unknown,unknown,Batter may contain dairy/egg - confirm with staff
+Onion Straws,Side,220,140,16.0,3.0,0.0,0,180,18,1,2,2,yes,unknown,unknown,Confirm batter ingredients with staff
+Pickle Slices,Side,0,0,0.0,0.0,0.0,0,230,0,0,0,0,yes,yes,yes,
+Red's Pickle Relish,Side,90,0,0.0,0.0,0.0,0,500,22,0,20,0,yes,yes,yes,
+Sauteed Mushrooms,Side,120,70,8.0,4.5,0.0,20,270,9,3,4,4,yes,unknown,unknown,Confirm butter content with staff
+Steamed Broccoli,Side,30,0,0.5,0.0,0.0,0,30,6,3,2,3,yes,yes,yes,
+Sweet Potato Fries,Side,460,200,23.0,21.0,0.0,0,750,59,8,21,4,yes,unknown,unknown,Confirm oil/seasoning with staff
+Tomato (two slices),Side,5,0,0.0,0.0,0.0,0,0,1,0,0,0,yes,yes,yes,
+Yellow Onion,Side,10,0,0.0,0.0,0.0,0,0,3,0,1,0,yes,yes,yes,
+Yukon Chips,Side,500,320,35.0,31.0,0.0,0,490,41,8,0,4,yes,yes,yes,
+Buzzard-Spicy Wing Sauce,Dipping Sauce,140,140,16.0,7.0,0.0,0,1640,0,0,0,0,yes,unknown,unknown,Confirm dairy content with staff
+Campfire Mayo - Creamy BBQ,Dipping Sauce,330,270,30.0,4.5,0.0,15,550,14,0,12,0,yes,no,unknown,Contains egg (mayo based)
+Chipotle Aioli,Dipping Sauce,430,420,47.0,7.0,0.5,25,430,2,0,2,0,yes,no,unknown,Contains egg (aioli based)
+Heinz 57 (2oz),Dipping Sauce,80,0,0.0,0.0,0.0,0,720,16,0,16,0,yes,yes,unknown,
+House-Made Salsa,Dipping Sauce,15,0,0.0,0.0,0.0,0,260,3,0,2,0,yes,yes,yes,
+Island Heat Sauce,Dipping Sauce,130,0,0.0,0.0,0.0,0,230,31,0,29,0,yes,yes,yes,
+Ranch,Dipping Sauce,270,250,29.0,5.0,0.0,20,410,2,0,2,1,yes,no,unknown,
+Red's Secret Tavern Sauce,Dipping Sauce,190,160,18.0,3.0,0.5,15,440,7,0,6,0,yes,unknown,unknown,Confirm dairy content with staff
+Roasted Garlic Aioli,Dipping Sauce,510,490,56.0,9.0,0.5,30,430,2,0,1,2,yes,no,unknown,Contains egg (aioli based)
+Smoke & Pepper Ketchup,Dipping Sauce,90,0,0.0,0.0,0.0,0,690,23,0,17,1,yes,yes,yes,
+Sweet & Spicy Ketchup,Dipping Sauce,130,0,0.0,0.0,0.0,0,350,33,0,30,0,yes,yes,yes,
+Teriyaki Sauce,Dipping Sauce,100,0,0.0,0.0,0.0,0,1130,24,0,20,2,yes,yes,yes,
+Whiskey River BBQ Sauce,Dipping Sauce,130,0,0.5,0.0,0.0,0,800,31,1,28,1,yes,yes,yes,
+Avo-Cobb-O Salad,Salad,1070,700,78.0,18.0,1.0,325,1810,51,10,30,50,no,no,unknown,Dressing not included
+Caesar Salad,Salad,230,190,21.0,4.0,0.5,15,360,8,2,2,4,no,no,unknown,Select locations only; dressing not included
+Chicken Tortilla Soup (Bowl),Soup,340,140,16.0,6.0,0.5,75,1080,27,5,4,23,no,no,unknown,Select locations only
+Chicken Tortilla Soup (Cup),Soup,170,70,8.0,3.0,0.0,35,540,13,2,2,12,no,no,unknown,Select locations only
+Clamdigger's Clam Chowder (Bowl),Soup,420,280,31.0,19.0,1.0,115,1270,25,0,8,11,no,no,unknown,Select locations only; contains shellfish
+Clamdigger's Clam Chowder (Cup),Soup,210,140,15.0,10.0,0.5,60,640,12,0,4,6,no,no,unknown,Select locations only; contains shellfish
+Crispy Chicken Tender Salad,Salad,1360,840,94.0,20.0,1.0,300,2180,82,7,30,37,no,no,unknown,Dressing not included
+French Onion Soup (Bowl),Soup,230,140,15.0,8.0,0.0,30,510,13,2,6,13,no,no,unknown,Select locations only
+French Onion Soup (Cup),Soup,120,70,8.0,4.0,0.0,15,260,7,1,3,6,no,no,unknown,Select locations only
+House Salad,Salad,430,320,36.0,7.0,0.5,35,650,25,2,18,5,yes,unknown,unknown,"Dressing not included; base salad likely vegan, confirm toppings with staff"
+Mighty Caesar Salad,Salad,750,550,61.0,11.0,1.0,125,1220,20,6,5,36,no,no,unknown,Select locations only
+Red's Chili Chili (Bowl),Salad,460,200,23.0,8.0,0.5,65,1260,40,9,8,27,no,no,unknown,Select locations only
+Red's Chili Chili (Cup),Salad,260,120,13.0,5.0,0.5,40,660,21,4,4,15,no,no,unknown,Select locations only
+Simply Grilled Chicken Salad,Salad,810,510,57.0,12.0,1.0,140,1310,42,5,29,37,no,no,unknown,Dressing not included
+Southwest Salad,Salad,800,490,54.0,13.0,0.5,130,1510,42,10,10,41,no,no,unknown,
+Balsamic Vinaigrette (2oz),Salad Dressing,90,80,9.0,2.0,0.0,0,490,6,0,4,0,yes,yes,unknown,
+Balsamic Vinaigrette (3oz),Salad Dressing,140,130,14.0,3.0,0.0,0,730,8,0,6,0,yes,yes,unknown,
+Bleu Cheese Dressing (2oz),Salad Dressing,320,310,34.0,7.0,0.5,30,570,0,0,0,2,yes,no,unknown,
+Bleu Cheese Dressing (3oz),Salad Dressing,470,460,51.0,10.0,0.5,50,860,0,0,0,3,yes,no,unknown,
+Caesar Dressing (2oz),Salad Dressing,360,340,38.0,7.0,0.5,30,510,3,0,0,2,yes,no,unknown,Select locations only; contains egg/anchovy typically
+Caesar Dressing (3oz),Salad Dressing,530,510,57.0,10.0,1.0,40,760,5,0,1,3,yes,no,unknown,Select locations only; contains egg/anchovy typically
+Dijon Vinaigrette (2oz),Salad Dressing,180,120,14.0,2.5,0.0,15,780,10,0,10,0,yes,unknown,unknown,Confirm egg content with staff
+Dijon Vinaigrette (3oz),Salad Dressing,280,190,21.0,3.5,0.5,25,1160,16,0,14,0,yes,unknown,unknown,Confirm egg content with staff
+French Dressing (2oz),Salad Dressing,90,70,7.0,1.5,0.0,0,260,6,0,5,0,yes,unknown,unknown,Select locations only
+French Dressing (3oz),Salad Dressing,140,100,11.0,2.0,0.0,0,390,9,0,8,0,yes,unknown,unknown,Select locations only
+French Honey Dressing (2oz),Salad Dressing,270,190,21.0,3.5,0.0,0,430,19,0,19,0,yes,unknown,unknown,Select locations only
+French Honey Dressing (3oz),Salad Dressing,480,320,36.0,6.0,0.0,0,750,33,0,33,0,yes,unknown,unknown,Select locations only
+Italian Dressing (2oz),Salad Dressing,180,160,18.0,3.0,0.0,0,480,6,0,4,0,yes,yes,unknown,
+Italian Dressing (3oz),Salad Dressing,270,240,27.0,4.5,0.0,0,720,9,0,6,0,yes,yes,unknown,
+Oil & Vinegar (2oz),Salad Dressing,300,290,33.0,5.0,0.5,0,0,0,0,0,0,yes,yes,unknown,
+Oil & Vinegar (3oz),Salad Dressing,440,430,49.0,8.0,0.5,0,0,0,0,0,0,yes,yes,unknown,
+Poppyseed-Honey Mustard Dressing (2oz),Salad Dressing,350,280,31.0,5.0,0.5,25,510,17,0,16,1,yes,no,unknown,Contains honey and egg
+Poppyseed-Honey Mustard Dressing (3oz),Salad Dressing,520,420,47.0,8.0,0.5,40,770,26,0,24,2,yes,no,unknown,Contains honey and egg
+Ranch Dressing (2oz),Salad Dressing,270,250,29.0,5.0,0.0,20,410,2,0,2,1,yes,no,unknown,
+Ranch Dressing (3oz),Salad Dressing,400,380,43.0,7.0,0.5,25,620,3,0,3,2,yes,no,unknown,
+Salsa Ranch Dressing (2oz),Salad Dressing,190,180,20.0,4.5,0.0,20,290,2,0,2,1,yes,no,unknown,
+Salsa Ranch Dressing (3oz),Salad Dressing,290,270,30.0,6.0,0.5,30,440,4,0,3,2,yes,no,unknown,
+Thousand Island Dressing (2oz),Salad Dressing,190,160,18.0,3.0,0.5,15,440,7,0,6,0,yes,no,unknown,
+Thousand Island Dressing (3oz),Salad Dressing,290,240,27.0,4.5,0.5,20,660,10,0,9,0,yes,no,unknown,
