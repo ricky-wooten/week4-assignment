@@ -1,10 +1,11 @@
-[README.md](https://github.com/user-attachments/files/32359848/README.md)
 # Red Robin Nutrition Nest — Rules-Based Chatbot
 
 **Course:** Foundations of AI (M.S. Applied AI)
 **Assignment:** Week 4
 **Author:** Ricky Wooten
 **Platform:** Built and tested in [BoodleBox](https://boodlebox.ai)
+
+**Try the chatbot:** [https://box.boodle.ai/a/@NutritionNest](https://box.boodle.ai/a/@NutritionNest)
 
 ## Overview
 
